@@ -11,5 +11,16 @@ namespace WordleAnswerGUI
         {
 
         }
-    }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //    string[] array = dateTimePicker.Text.Split(',');
+            //    string str = "";
+            //    foreach(string word in array)
+            //    {
+            //        str += word;
+            //    }
+            //    MessageBox.Show(str);
+        }
+}
 }
