@@ -66,7 +66,7 @@ namespace WordleAnswerGUI
             }
             else if (month.Contains("October"))
             {
-                return "10";
+                return "10"; 
             }
             else if (month.Contains("November"))
             {
